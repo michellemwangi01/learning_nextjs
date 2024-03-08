@@ -1,0 +1,96 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Feminergy Capsules",
+      "categoriesID": [9, 5],
+      "supplierID": 1,
+      "packaging": "60 capsules",
+      "dosage": "1 capsule, 2 times a day (1x2) 1/2hr after food",
+      "image": "https://i.roamcdn.net/hz/pi/listing-thumb-543w/118ee9f7abf826ed3b2b523ed523634a/-/horizon-files-prod/pi/picture/qdek70kr/5248227e28e653465ed1606ccef277ca43684ff2.jpg",
+      "description": "Contain 95% OPC that effectively reduce anti-aging and anti-oxidation",
+      "active-ingredients": "Grape seed extract, Pink bark, Cypress Tree and Ginkgo leaves extract.",
+      "contra-indication": [],
+      "benefits": [
+        "Recommended for hormonal imbalance",
+        "Relieves fatigue, allergies, and menopausal symptoms",
+        "Delays aging and maintains youthful look",
+        "Reclaims wrinkles, skin laxity, and melasma",
+        "Good for people with cardiovascular and cerebrovascular diseases",
+        "People who have had radiotherapy, chemotherapy",
+        "Good for Cancers, Diabetes, cardiovascular, Alzheimer patients",
+        "Prevents cataracts and has anti-inflammatory effects",
+        "Prevents dental cavities and gingivitis",
+        "Improves memory alertness",
+        "Natural antioxidant"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "MicrO2 Cycle Tablets",
+      "categoriesID": [1],
+      "supplierID": 1,
+      "packaging": "100's/Bottle",
+      "dosage": "2 capsules, 3 times a day before meals",
+      "image": "https://ehealthkenya.co.ke/wp-content/uploads/2023/09/86fff9eb6d.jpg",
+      "description": "Contain 95% OPC that effectively reduce anti-aging and anti-oxidation",
+      "active-ingredients": "Radix Panax notoginseng Borneolum Syntheyticum & salviae Miltiorrhiza (Danshen)",
+      "contra-indication": [
+        "Not suitable for pregnant and breastfeeding mothers",
+        "Liver & Kidney abnormality, please don't combine with aspirin"
+      ],
+      "benefits": [
+        "Helpful for removing blood stasis",
+        "Improve the flow of blood through the small vascular network",
+        "Enhance oxygen and nutrients delivery",
+        "Anti-oxidation, free radical clearance, cardiac muscular protection",
+        "Assist cholesterol and trigly cerides normalizations",
+        "It improve blood circulation",
+        "It improve eye sight",
+        "Prevents arteriosclerosis",
+        "A strong anti-oxidant",
+        "Prevents senile dimentia and Alzheimer's",
+        "Lower whole blood and plasma viscosity",
+        "Decrease blood platelet aggregation",
+        "Good for hypertention Management.",
+        "Good for stroke prevention and reverses stroke",
+        "Prevents Heart attack"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Extra Energy",
+      "categoriesID": [10],
+      "supplierID": 2,
+      "packaging": "N/A",
+      "dosage": "1 teaspoon of green gold extra energy in a glass. Add warm or cold water.",
+      "image": "https://scontent.fnbo12-1.fna.fbcdn.net/v/t39.30808-6/424982953_1161115128400475_1351290056661532880_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=3635dc&_nc_ohc=2td6MN_jvxQAX8tbSsb&_nc_ht=scontent.fnbo12-1.fna&oh=00_AfA_0W5hFH3370k-Iekle0_TpD0HBfw5ZZu9WWo-TPvfgg&oe=65E79D9A",
+      "description": "Contain 95% OPC that effectively reduce anti-aging and anti-oxidation",
+      "active-ingredients": "Baobab, Hibiscus, Greengold, Moringa, Stevia, Amla",
+      "contra-indication": [],
+      "benefits": [
+        "Baobab - High vitamic C, calcium, magnesium, potassium Vitamin c Contains Prebiotics, dietary fibre & anti-oxidants",
+        "Hibiscus - Anti-hypertensive, anti-inflammatory. Anti-diabetic.High in antioxidants",
+        "Greengold Moringa - 25 vitamis, 46 Antioxidant levels, 36 antiflammatory. 28% protein & essential minerals",
+        "Amla - Rich in chromium, antioxidants. Anti- mutagenic, anti-inflammatory. chemoprotective. Protects skin against collagen breakdown.",
+        "Stevia - zero calorie sweeener, anti-bacteria, anti-diabetic and anti-hypertensive."
+      ]
+    }
+  ],
+  "categories": [
+    { "id": 1, "name": "Cardiovascular Supplements" },
+    { "id": 2, "name": "Children's Health" },
+    { "id": 3, "name": "Bone & cartilage Products" },
+    { "id": 4, "name": "Immune Boosters" },
+    { "id": 5, "name": "Anti-aging" },
+    { "id": 6, "name": "Digestive Products" },
+    { "id": 7, "name": "Personal care Products" },
+    { "id": 8, "name": "Men Healthcare Products" },
+    { "id": 9, "name": "Women's Healthcare Products" },
+    { "id": 10, "name": "Energy Boosters" }
+  ],
+  "suppliers": [
+    { "id": 1, "name": "BFSuma" },
+    { "id": 2, "name": "Botanical Treasures" }
+  ]
+}

@@ -50,3 +50,9 @@ Templates are like layouts except they do not preserve state. When a user naviga
 3.  `template.jsx/tsx` - same as layout, but when reloaded or when a user changes page, it rerenders everything
 4.  `not-found.jsx/tsx` - automated of any pages whose URLs are not valid
 5.  `loading.jsx/tsx` - page that is used as theloading content indicator
+6.
+
+## ROUTE HANDLERS
+
+1. Unlike page routes which respond with HTML content, route handlers allow you to create RESTful endpoints, giving you full control over the response
+2. Allow external API requests.
