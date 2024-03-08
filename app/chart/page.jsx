@@ -73,6 +73,7 @@ const page = () => {
             fill="#ca988b"
             label
           />
+          <Tooltip />
         </PieChart>
       </ResponsiveContainer>
     </div>
